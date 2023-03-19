@@ -4,11 +4,6 @@
 	"Category": "",
 	"Description": "",
 	"Modules": [
-		{
-			"Name": "TrinityChallenger",
-			"Type": "Runtime",
-			"LoadingPhase": "Default"
-		}
 	],
 	"Plugins": [
 		{
